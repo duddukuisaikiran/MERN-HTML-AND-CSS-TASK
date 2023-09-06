@@ -1,0 +1,23 @@
+.div1 {
+    width : 20%;
+    height : 10px;
+}
+div {
+    height : 500px;
+    width : 50%;
+    border : 1px solid black;
+}
+button {
+    background-color: burlywood;
+}
+label {
+    width : 150px;
+    display: inline-block;
+}
+input {
+    width : 30%;
+}
+/* Reset default margin and padding for all elements */
+/* Reset default margin and padding for all elements */
+/* Reset default margin and padding for all elements */
+/* Style form inputs */

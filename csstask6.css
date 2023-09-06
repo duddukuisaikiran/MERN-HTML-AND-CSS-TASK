@@ -1,0 +1,86 @@
+#outermost {
+    width : 550px;
+    height : 550px;
+    margin-top:50px;
+}
+#imgdiv {
+    width : 200px;
+    height : 200px;
+}
+#image1 {
+    width : 100%;
+    height : 100%;
+    border-radius: 50%;
+
+}
+#form1 {
+    display : flex;
+    margin : 0px;
+    padding : 0px;
+}
+
+label {
+    font-weight: 100px;
+    margin-left: 0%;
+    font-size:18px;
+}
+#udiv {
+   height : 20px;
+   width : 550px;
+   text-align: left;
+}
+#uinput {
+    height : 33px;
+    width : 550px;
+
+}
+#username {
+    width : 543px;
+    height : 33px;
+}
+#upass {
+    text-align: left;
+    margin-top:23px;
+}
+#password {
+    width : 543px;
+    height : 33px;
+}
+#login {
+    width : 550px;
+    height : 38px;
+    margin-top: 23px;
+    background-color: green;
+    margin-left: 0%;
+    color : white;
+    font-size: 15px;
+}
+#ucheckbox {
+    margin-top: 23px;
+    text-align: left;
+    content: left;
+}
+#last {
+    margin-top: 23px;
+    width : 550px;
+    height : 50px;
+    content: left;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#cancel {
+    width : 80px;
+    height : 40px;
+    background-color: red;
+    content: left;
+    margin-top: 10px;
+    color : white;
+    border-radius: 10%;
+}
+p {
+    display: inline-block;
+    text-align: right;
+    content: right;
+    margin-left: 340px;
+}
